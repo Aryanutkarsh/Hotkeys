@@ -69,9 +69,13 @@ Use below given template
 
 ## Add Feature
 ⁍ `Popup.html`    is the main html to runs when extension is used 
+
 ⁍ `script.js`     includes all the javascript
+
 ⁍ `style.css`     includes all the styling
+
 ⁍ `manifest.json` includes details about extension
+
 
 
 <br>
@@ -92,13 +96,19 @@ Go to the project directory
 ```
 
 ⁍ Download the code in zip format
+
 ⁍ Extract it
-⁍ Open extension psge in Google chrome
+
+⁍ Open extension page in Google chrome
+
 There are several ways todo that.
+
 1.Type `chrome://extensions` in the url bar and press enter.
+
 2.Click on the tree dots in the top right of the browser, then click "More tools" then click "Extensions".
 
 ⁍ Enable Developers option
+
 ⁍ Click on Load unpacked,then select the unziped folder
 
 <br>
