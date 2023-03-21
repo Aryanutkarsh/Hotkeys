@@ -9,15 +9,11 @@ HOTKEYS is a chrome extension built to free users from memorizing Shortcuts.Keys
 
 ## Authors
 
-- [@Aryanutkarsh](https://www.github.com/Aryanutkarsh)
 - <div align="center">
-
+   [@Aryanutkarsh](https://www.github.com/Aryanutkarsh)
   <a href="https://github.com/Aryanutkarsh">
-
     <img align="right" width="100" src="https://github.com/Aryanutkarsh/Aryanutkarsh/blob/main/20210824_221743_0000.png">
-
   </a>
-
 </div>
 
 
