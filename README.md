@@ -1,4 +1,4 @@
-![Logo](/Hotkeys/logo.png)
+![Logo](/logo.png)
 
 
 # Hokeys
@@ -15,7 +15,7 @@ HOTKEYS is a chrome extension built to free users from memorizing Shortcuts.Keys
 
 ## Demo
 
-![Demo](/Hotkeys/Demo.gif)
+![Demo](/Demo.gif)
 
 ## Color Reference
 
