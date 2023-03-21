@@ -1,25 +1,31 @@
-![Logo](/logo.png)
-
-
-# Hokeys
-
+<p align="center">
+<img alt="logo image" src="./logo.png" height="100px" width="100px">
+</p>
+<h1 align="center">HotKeys</h1>
+<p align="center">
 HOTKEYS is a chrome extension built to free users from memorizing Shortcuts.Keys combinations can be accessed by just clicking a button which neatly presents shortcuts in well segregated manner.
->"This extension is not published on google webstore.So,You have install it manually. Please refer Run Locally section"
+</p>
 
+>"This extension is not published on google webstore.So,You have to install it manually. Please refer Run Locally section"
 
-## Authors
- [@Aryanutkarsh](https://www.github.com/Aryanutkarsh)
-- <div align="center">
-
-  <a href="https://github.com/Aryanutkarsh">
-    <img align="right" width="100" src="https://github.com/Aryanutkarsh/Aryanutkarsh/blob/main/20210824_221743_0000.png">
-  </a>
+<div align="center">
+ <a href="https://github.com/Aryanutkarsh">
+ <img align="right" width="100" src="https://github.com/Aryanutkarsh/Aryanutkarsh/blob/main/20210824_221743_0000.png">
+ </a>
 </div>
+
+<h2 align="left">Author</h2>
+   
+[@Aryanutkarsh](https://www.github.com/Aryanutkarsh)
 
 
 ## Demo
 
-![Demo](/Demo.gif)
+<p align="center">
+ <img alt="demo" src="/Demo.gif" height="600px">
+</p>
+
+<br>
 
 ## Color Reference
 
@@ -29,13 +35,14 @@ HOTKEYS is a chrome extension built to free users from memorizing Shortcuts.Keys
 |  Primary Colour   | ![#ff4d00](https://via.placeholder.com/10/ff0000?text=+) #FF0000     |
 | Secondary Colour  | ![#ff0000](https://via.placeholder.com/10/ff4D00?text=+) #FF4D00     |
 
+<br>
 
 ## Contribution 👥️️
 
 Great to see you are checking this section!😁
 
 ## Add more shortcuts ➕️
-To add more schortcuts:
+⁍ To add more schortcuts:
 
 Navigate to root folder → Open popup.html → Go to body tag → Use respective code block
 
@@ -61,11 +68,13 @@ Use below given template
 ```
 
 ## Add Feature
-#### ⁍ `Popup.html`    is the main html to runs when extension is used 
-#### ⁍ `script.js`     includes all the javascript
-#### ⁍ `style.css`     includes all the styling
-#### ⁍ `manifest.json` includes details about extension
+⁍ `Popup.html`    is the main html to runs when extension is used 
+⁍ `script.js`     includes all the javascript
+⁍ `style.css`     includes all the styling
+⁍ `manifest.json` includes details about extension
 
+
+<br>
 
 ## Run Locally / Install on Chrome
 
@@ -82,18 +91,18 @@ Go to the project directory
   cd my-project
 ```
 
-#### ⁍ Download the code in zip format
-#### ⁍ Extract it
-#### ⁍ Open extension psge in Google chrome
+⁍ Download the code in zip format
+⁍ Extract it
+⁍ Open extension psge in Google chrome
 There are several ways todo that.
-
 1.Type `chrome://extensions` in the url bar and press enter.
-
 2.Click on the tree dots in the top right of the browser, then click "More tools" then click "Extensions".
 
-#### ⁍ Enable Developers option
-#### ⁍ Click on Load unpacked,then select the unziped folder
+⁍ Enable Developers option
+⁍ Click on Load unpacked,then select the unziped folder
+
+<br>
 
 ## License
 
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](/Hotkeys/LICENSE.txt)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](/LICENSE)
